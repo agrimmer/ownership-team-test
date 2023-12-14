@@ -1,0 +1,16 @@
+{
+    "teams": [
+        {
+            "name": "teamLicensing",
+            "description": "Responsible for the licensing service",
+            "responsibiliy": "development",
+            "email": "licensing@yourcompany.com"
+        },
+        {
+            "name": "teamPlatform",
+            "description": "Responsible for the Kubernetes platform",
+            "responsibiliy": "infrastructure",
+            "email": "platform@yourcompany.com"
+        }
+    ]
+}
